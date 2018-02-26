@@ -1,5 +1,5 @@
 
-# Spring Rest Custom Error Code(HTTP)/Message Response
+#### Spring Rest Custom Error Code(HTTP)/Message Response
 
 ## Problem Statement
 In ReST Webservice World. Responding with the Http Error codes for the exception thrown in java is not easier , and that too with the customer error messages for that particular exception also needs lots of configuration.

@@ -9,7 +9,7 @@ let us see how it can be implemented.
 ## Solution
 Solution to the above statement is simple , the error code and the messages are configured in the property file and for particular exception we can configure the application to throw the particular error message and HTTP status code.
 
-Before going into solution we assume that the read posses  java, spring boot,Maven or Gradle and ReST WS knowledge. 
+Before going into solution we assume that the reader posses  java, spring boot,Maven or Gradle and ReST WS knowledge. 
 
 **Setting up the project** 
 	- Create a spring boot project using the below link.

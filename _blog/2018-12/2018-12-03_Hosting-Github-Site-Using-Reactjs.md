@@ -14,3 +14,6 @@ So i got what i want. then the action starts to create a personal site with blog
 	
 ## setting up the website
 
+<script>
+	alert("Hello Alert");
+</script>
